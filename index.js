@@ -35,3 +35,5 @@ console.log("Main index.js file by https://github.com/FyberMods")
 const loader = new aoijs.LoadCommands(bot);
 loader.load(bot.cmd,'./commands/') 
 */
+
+// Template with command handler loader - FyberDev ( v5 version! )
