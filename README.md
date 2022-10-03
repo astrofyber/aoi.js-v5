@@ -1,7 +1,7 @@
-# aoi.js-v5
+# ‎💡 aoi.js-v5
 <h3> Template of main file ( index.js ) - AOI.JS V5</h3> <br>
 
-<h1> npm packages:</h1> <br>
+# ⚙️ npm packages:<br>
 ````
 npm i aoi.js@5
 npm i discord.js
