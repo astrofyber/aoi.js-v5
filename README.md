@@ -1,6 +1,6 @@
 # ‎💡 aoi.js-v5
 <h3> Template of main file ( index.js ) - AOI.JS V5</h3> <br>
-[Wiki for begginers - How to use this code for your aoi.js bot](https://github.com/CallMeFyber/aoi.js-v5/wiki)
+Wiki for begginers → https://github.com/CallMeFyber/aoi.js-v5/wiki
 
 # ⚙️ npm packages:<br>
 ````
