@@ -1,5 +1,5 @@
 # ‎💡 aoi.js-v5
-<h3> Template of main file ( index.js ) - AOI.JS V5</h3> <br>
+Template of main file ( index.js ) - AOI.JS V5 <br>
 Wiki for begginers → https://github.com/CallMeFyber/aoi.js-v5/wiki
 
 # ⚙️ npm packages:<br>
