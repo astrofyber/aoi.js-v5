@@ -1,7 +1,7 @@
 const aoijs = require("aoi.js")
 
 const bot = new aoijs.Bot({
-token: process.env.TOKEN, //Discord Bot Token
+token: "ΤΟΚΕΝ", //Discord Bot Token - Repl.it --> process.env.TOKEN
 prefix: "PREFIX", //Discord Bot Prefix
 intents: ["GUILDS", "GUILD_MESSAGES"] //Discord Intents, you can change it at "all"
 })
@@ -13,11 +13,11 @@ bot.onMessage()
 //Command Example
 
 bot.command({
-name: "hi",
-code: `hello bby <3`
+name: "ping",
+code: `$ping ms`
 })
 
-// You can aslo add variables :D
+// You can aslo add variables if you want.
 
 //Ready Event
 
