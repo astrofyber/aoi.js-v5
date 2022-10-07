@@ -1,4 +1,4 @@
-// --- AOI.JS VERSION 5 - @ CallMeFyber
+// ---- AOI.JS VERSION 5 - @ CallMeFyber
 const aoijs = require("aoi.js") // npm i aoi.js@5
 
 const bot = new aoijs.Bot({
