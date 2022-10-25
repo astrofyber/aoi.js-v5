@@ -58,8 +58,9 @@ console.log("Main index.js file by https://github.com/FyberMods")
 
 bot.joinCommand({ 
  channel:"ChannelID", 
- code: <@$authorID> Welcome!`
-`})
+ code: `<@$authorID> Welcome!`
+
+})
 
 // Command Example
 
@@ -69,6 +70,7 @@ bot.joinCommand({
 bot.command({
 name: "ping",
 code: `$ping ms`
+
 })
 
 
